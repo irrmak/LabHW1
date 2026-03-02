@@ -7,3 +7,21 @@ Start Date : 01.01.2027
 Record Time : 03/03/2026 00:37:01
 ====================
 
+=== Project Entry ===
+Project Name : proje2
+Team Leader : eda
+Team Size : 7-10
+Project Type : Desktop
+Start Date : 13.06.2026
+Record Time : 03/03/2026 00:47:58
+====================
+
+=== Project Entry ===
+Project Name : Proje3
+Team Leader : Efe
+Team Size : 10+
+Project Type : Mobile
+Start Date : 10.03.2026
+Record Time : 03/03/2026 00:48:41
+====================
+
